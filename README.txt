@@ -1,0 +1,1 @@
+Hello this is my first discord bot written in python

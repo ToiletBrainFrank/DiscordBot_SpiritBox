@@ -1,0 +1,6 @@
+discord.py
+pyaudio
+speechrecognition
+pyttsx3
+pydub
+asyncio
